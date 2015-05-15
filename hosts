@@ -43,8 +43,17 @@
 #
 
 # Section Start: Localhost
-127.0.0.1        localhost.localdomain localhost
+127.0.0.1	localhost
+127.0.1.1	fanxiong-PC #fx.ikuaiyue.com
 ::1              localhost.localdomain localhost
+
+192.168.1.220	dev
+112.124.49.254	node4.ikuaiyue.com	node4
+121.199.35.172	node1.ikuaiyue.com	node1
+#182.92.4.60	chat.ikuaiyue.com	chat
+182.92.4.60	node1-bj.ikuaiyue.com	node1-bj
+
+118.144.72.174	node.ikuaiyue.com	app-bj-1
 # Section End: Localhost
 
 # Section Start: huhamhire-hosts
